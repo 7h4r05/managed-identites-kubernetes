@@ -1,0 +1,4 @@
+todo-api/node_modules/*
+todo-logs/node_modules/*
+todo-data/node_modules/*
+/todo-keyvault/node_modules/*

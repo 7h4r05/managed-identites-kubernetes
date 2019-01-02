@@ -1,0 +1,25 @@
+{
+  "name": "todo-api",
+  "version": "1.0.0",
+  "description": "ta",
+  "main": "server.js",
+  "dependencies": {
+    "chokidar": "^2.0.4",
+    "koa": "^2.5.3",
+    "koa-router": "7.4.0",
+    "koa-bodyparser": "4.2.1",
+    "azure-storage": "2.10.1",
+    "koa-http-request": "2.2.1",
+    "thunkify": "2.1.2",
+    "co": "4.6.0",
+    "axios": "0.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
